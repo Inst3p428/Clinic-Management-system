@@ -27,4 +27,4 @@ This is a **Hospital Management System** designed to streamline hospital operati
    ```sql
    CREATE DATABASE hospital_db;
    USE hospital_db;
-
+https://github.com/Inst3p428/Clinic-Management-system/blob/main/ERDClinicManagementSystem.png
